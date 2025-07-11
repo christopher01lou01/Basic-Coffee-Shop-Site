@@ -1,17 +1,17 @@
 body {
-  background-color: #f8f3ef;
-  color: #3e2c23;
+  background-color: #ffffff;
+  color: #800000;
   font-family: 'Segoe UI', sans-serif;
 }
 .navbar {
-  background-color: #6f4e37;
+  background-color: #ffffff;
 }
 .navbar-brand, .nav-link {
-  color: #fff !important;
+  color: #800000 !important;
   font-weight: bold;
 }
 .hero {
-  background-color: #d6ccc2;
+  background-color: #fff8bd;
   padding: 60px 20px;
   text-align: center;
 }
@@ -20,17 +20,19 @@ body {
   margin-bottom: 10px;
 }
 .menu-item {
-  background-color: #fff;
+  background-color: #ffffff;
   border-radius: 8px;
+  border-top: 2px solid;
+  border-color: #0044ff;
   box-shadow: 0 2px 5px rgba(0,0,0,0.1);
   padding: 15px;
   margin-bottom: 15px;
 }
 footer {
-  background-color: #6f4e37;
+  background-color: #ffffff;
   color: white;
   padding: 20px 10px;
-  text-align: center;
+  text-align: left;
   margin-top: 40px;
 }
 
